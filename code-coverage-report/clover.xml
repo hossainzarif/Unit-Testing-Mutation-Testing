@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1646645925755" clover="3.2.0">
+  <project timestamp="1646645925755" name="All files">
+    <metrics statements="33" coveredstatements="33" conditionals="20" coveredconditionals="20" methods="3" coveredmethods="3" elements="56" coveredelements="56" complexity="0" loc="33" ncloc="33" packages="1" files="3" classes="3"/>
+    <file name="1-BMI.js" path="/Users/hossain/Desktop/LabFinal/src/1-BMI.js">
+      <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="2" count="17" type="cond" truecount="5" falsecount="0"/>
+      <line num="3" count="7" type="stmt"/>
+      <line num="4" count="10" type="cond" truecount="5" falsecount="0"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
+    <file name="2-converter.js" path="/Users/hossain/Desktop/LabFinal/src/2-converter.js">
+      <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="4" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="3-sorting.js" path="/Users/hossain/Desktop/LabFinal/src/3-sorting.js">
+      <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="23" type="stmt"/>
+      <line num="6" count="23" type="stmt"/>
+      <line num="7" count="42" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="11" count="23" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="13" count="5" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="17" count="5" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
